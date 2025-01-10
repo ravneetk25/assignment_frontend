@@ -3,7 +3,7 @@ import { Container, Row, Col, Card, Button, Form } from 'react-bootstrap';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const API_BASE_URL = 'https://assignmentbackend-production-a536.up.railway.app/api/';
+const API_BASE_URL = 'https://assignmentbackend-production-d8da.up.railway.app/api/';
 const coins = [
   { id: 'bitcoin', name: 'Bitcoin' },
   { id: 'matic-network', name: 'Matic' },
